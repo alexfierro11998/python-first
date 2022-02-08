@@ -17,4 +17,4 @@ bottom = ((1 + r) ** n) - 1
 
 A = P * (top / bottom)
 
-print(A)
+print(int(A))
